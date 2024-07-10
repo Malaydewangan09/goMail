@@ -13,6 +13,7 @@ Set env variable in your system
 senderEmail - your gmail username
 senderPassword - your app password
 ```
+```
 cd gomail
 ```
 ```
